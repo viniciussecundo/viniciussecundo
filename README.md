@@ -17,7 +17,7 @@ Sou um recente desenvolvedor apaixonado por tecnologia e aprendizado contínuo. 
   <img align="center" alt"sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div><br>
 
-### Tecnologias em desenvolvimento
+### Tecnologias a qual estou estudando
 <div style = "display:inline_block"><br>
   <img align="center" alt"mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt"aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
