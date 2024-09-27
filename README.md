@@ -5,7 +5,7 @@ Sou um recente desenvolvedor apaixonado por tecnologia e aprendizado contínuo. 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Devpradev)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciussecundo/)
 
-[![vinicius github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussecundo&layout=donut)]
+![vinicius github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussecundo&layout=donut)
 
 ### Tecnologias que uso atualmente
 <div style = "display:inline_block"><br>
