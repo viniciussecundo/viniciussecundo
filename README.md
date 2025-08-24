@@ -1,6 +1,5 @@
 ### Olá! Me chamo Vinícius Secundo 👋
-Sou um recente desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde estou aprimorando minhas habilidades em programação e desenvolvimento de software.
-
+Desenvolvedor em formação | Explorando novas tecnologias e construindo projetos em diversas tecnologias afim de me aprofundar no mundo do TI | Sempre aprendendo algo novo
 ![vinicius github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussecundo&layout=donut)
 
 ### Tecnologias que uso atualmente:
